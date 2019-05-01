@@ -1,0 +1,37 @@
+/*
+* Grace Fairchild
+* 4/15/2019
+* I Love Bulldogs
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+body {
+  font-family: sans-serif; /* Changing font of the body */
+}
+
+header {background-color:mediumpurple;} /* Changing background color of header */
+
+main {background-color:lavender;} /* Changing background color of main */
+
+footer {background-color:purple;} /* Changing background color of footer */
+
+img { width: 200px; height: 200px; float:left} /* Changing image size */
+
+h1 {
+    text-decoration: underline overline;
+    font-size: 32pt;
+    text-align: center;
+    background-color:rebeccapurple;
+    color: white;} /* Changing different elements in heading one */
+
+p {
+    background-color: white;
+    color: purple;} /* Changing background color of paragraphs */
+
+a:link { color: deeppink; } /* Changing color of the links */
+
+a:hover, a:focus { color: lightpink} /* Changing color of links when hovered over */
